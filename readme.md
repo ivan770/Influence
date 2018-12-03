@@ -56,3 +56,7 @@ Parameters for releases:
 * **name** - Release name
 * **description** - Release description
 * **type** - Release type, from 0 to 2.
+
+## Credits
+
+[Logo](https://vk.com/denisk666)
